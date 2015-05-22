@@ -1,4 +1,5 @@
 Welcome
 Good BYE!
 
-@@
+Selamat Datang!
+Terima kasih.
